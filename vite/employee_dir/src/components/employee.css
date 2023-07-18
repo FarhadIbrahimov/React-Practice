@@ -1,0 +1,21 @@
+.employeeImage {
+  width: 23vw;
+  height: 23vw;
+  border-radius: 78%;
+}
+.employeeContainer {
+  background-color: brown;
+}
+.searchBar {
+  border: 1px solid white;
+  width: 100%;
+}
+.header {
+  border: 1px solid white;
+  width: 100%;
+}
+
+.employeeList {
+  border: 1px solid white;
+  width: 100%;
+}
